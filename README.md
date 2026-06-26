@@ -12,6 +12,3 @@ TwerkOS is built for users who want a faster, cleaner, and more optimized system
 * Run the executable or script as administrator.
 * Follow the on-screen instructions.
 * Restart the system if required to apply all changes.
-##
-### Download
---> https://www.swisstransfer.com/d/1a90cc5c-7d6a-45ab-a990-044888e69bf9
