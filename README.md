@@ -14,4 +14,4 @@ TwerkOS is built for users who want a faster, cleaner, and more optimized system
 * Restart the system if required to apply all changes.
 ## 
 ### Download 
-* https://www.swisstransfer.com/d/6b91dcb1-e1a7-4a26-962f-ffb61316c7c3
+* https://www.swisstransfer.com/d/7050c718-5f53-4139-8ecb-4a75184c4f18
